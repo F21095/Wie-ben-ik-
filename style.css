@@ -1,9 +1,14 @@
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
-    background-color:"#669999";
+    background-color: "#669999";
 }
 
 h1 {
@@ -34,8 +39,27 @@ p {
 
 </style>
 </head>
+<body>
 
+<h1>Hello World!</h1>
+
+<p>This page has a light blue background color!</p>
+
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
