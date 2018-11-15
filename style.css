@@ -14,7 +14,7 @@ margin:0 0;
 
 height: 100%;
 
-background:lightblue; /* Standard syntax (must be last) */
+background-color: lightblue; /* Standard syntax (must be last) */
 
 }
 
