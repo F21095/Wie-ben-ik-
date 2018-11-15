@@ -35,32 +35,10 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
+
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -102,21 +80,6 @@ color: black;
 
 /* Style the links inside the navigation bar */
 
-.topnav a {
-
-float: left;
-
-color: #f2f2f2;
-
-text-align: center;
-
-padding: 14px 16px;
-
-text-decoration: none;
-
-font-size: 17px;
-
-}
 
 
 
