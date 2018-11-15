@@ -21,6 +21,14 @@ p {
     font-size: 20px;
     text-align: center;
 }
+
+p {
+    border: 2px white;
+    outline: #336788 solid 10px;
+    margin: auto;    
+    padding: 20px;
+    text-align: center;
+}
 </style>
 </head>
 <body>
