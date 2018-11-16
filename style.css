@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+{ 
+    body backgroud-color": '#669999"';
+    
+}
 <style>
 body {
     background-color: "#669999";
@@ -10,6 +15,13 @@ h1 {
     font-family: verdana;
     font-size: 20px;
     color: black;
+    text-align: center;
+    
+    
+    border: 2px #669999;
+    outline: #336788 solid 10px;
+    margin: auto;    
+    padding: 20px;
     text-align: center;
 
 }
